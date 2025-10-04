@@ -6,8 +6,8 @@
 **Work Experience**
 
 Chalmers University of Technology  
-**Research Data Advisor** | Sep 2021 \- Current  
-Data Stewardship role as part of E-Commons’ Chalmers Data Office (CDO), involved in setting up and running Research Data Management (RDM) services at Chalmers, such as Data Management Plans, long-term storage and repository functions, and researcher support. Also involved in training and outreach on RDM and FAIR, and providing RDM expertise in EU projects.
+**Digital Research Engineer** | Sep 2021 \- Current  
+Data Stewardship and coordination role within E-Commons’ Chalmers Data Office (CDO), involved in setting up and running Research Data Management (RDM) services at Chalmers, such as Data Management Plans, long-term storage and repository functions, and researcher support. Also involved in training and outreach on RDM and FAIR, and providing RDM expertise in EU projects. Coordinator for Chalmers Data OFfice as of autumn 2025.
 
 Swedish National Data Service  
 **Research Data Advisor** | Oct 2019 \- Sep 2021  
