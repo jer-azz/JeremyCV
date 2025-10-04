@@ -52,7 +52,7 @@ Vlachidis, A., Tudhope, D., Wansleeben, M., Azzopardi, J., Green, K., Xia, L., &
 Förskola Villa Ramnebacken ekonomisk förening  
 **Chairperson** | May 2020 \- April 2022
 
-Multiple events
+Multiple events  
 **Tournament organizer** | 2024 \- Ongoing
 
 **Language skills**
