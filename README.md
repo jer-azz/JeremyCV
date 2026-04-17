@@ -14,7 +14,7 @@ Swedish National Data Service
 Involved in setting up a network of research data support units at Swedish universities and research organizations. This included helping implement data management processes and FAIR data principles. Also responsible for persistent identifiers and related tasks, as well as. Data curation on geospatial & environmental data. Also did data mapping and ontology work within EU projects.
 
 Swedish National Data Service  
-**Data Manager** | Mar 2019 \- Sep 2019  
+**Data Manager** | Mar 2015 \- Sep 2019  
 Archaeological, spatial and environmental data management and curation, supporting researchers and universities with data management questions, implementation of metadata standards, automating work processes and giving seminars and workshops on data management and life cycles.
 
 University of Malta  
@@ -51,6 +51,7 @@ Vlachidis, A., Tudhope, D., Wansleeben, M., Azzopardi, J., Green, K., Xia, L., &
 
 Förskola Villa Ramnebacken ekonomisk förening  
 **Chairperson** | May 2020 \- April 2022
+** Vice Chairperson** | April 2026 \- Ongoing
 
 Multiple events
 **Tournament organizer** | 2024 \- Ongoing
